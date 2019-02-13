@@ -16,8 +16,9 @@ namespace Delegates
         public event alert OnHighTemprature;
 
 
-        public int temp { get; set; } = 0;
-
+        public int temp { get; set; }
+        //The ability to have auto property initializers is included since C# 6.0.
+        //That’s why the statment temp { get; set; } = 0; has been removed !!
 
         public void monitor()
         {
