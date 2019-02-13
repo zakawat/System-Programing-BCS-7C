@@ -1,0 +1,42 @@
+<Books>
+
+    <Book AuthorId="1"  Category="Web" >
+        <Title>Asp.NET 40</Title>
+        <Publisher>102</Publisher>
+        <PubYear>1999</PubYear>
+        <Price>$205</Price>
+    </Book>
+    
+    <Book AuthorId="2" Category="Web" >
+        <Title>.NET CORE 2.0</Title>
+        <Publisher>103</Publisher>
+        <PubYear>2018</PubYear>
+        <Price>$399</Price>
+    </Book>
+
+    
+    <Book AuthorId="2" Category="Desktop" >
+        <Title>Java FX</Title>
+        <Publisher>105</Publisher>
+        <PubYear>2011</PubYear>
+        <Price>$150</Price>
+    </Book>
+
+    
+    <Book AuthorId="3"  Category="Mobile" >
+        <Title>Flutter</Title>
+        <Publisher>104</Publisher>
+        <PubYear>2018</PubYear>
+        <Price>$105</Price>
+    </Book>
+
+    
+    <Book AuthorId="1"  Category="Desktop" >
+        <Title>Let's C Sharp</Title>
+        <Publisher>103</Publisher>
+        <PubYear>2014</PubYear>
+        <Price>$55</Price>
+    </Book>
+
+
+</Books>

@@ -1,0 +1,19 @@
+<Authors>
+
+    <Author id="1">
+        <Name>William</Name>
+        <Country>USA</Country>
+    </Author>
+
+    <Author id="2">
+        <Name>Ahmed</Name>
+        <Country>PK</Country>
+    </Author>
+
+    <Author id="3">
+        <Name>Shah Hassan</Name>
+        <Country>Pak</Country>
+    </Author>
+
+
+</Authors>
